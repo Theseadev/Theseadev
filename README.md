@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HI, I'M MUHAMMAD FAHRUL BAHRI
 Hi, I'm Fahrul, a passionate learner in technology and software development. Currently, I'm focusing on building applications that aim to make daily life more organized and meaningful. My projects include:<br><br>E-Todolist: A task management app to help users stay on top of their academic or personal goals.<br>Neoserenity: A motivational quote app designed to inspire happiness and serenity, with a unique touch inspired by Borneo.<br>I enjoy exploring web and mobile app development, always seeking to create tools that positively impact users' lives. Feel free to explore my repositories and collaborate with me!<br><br>
 
 
