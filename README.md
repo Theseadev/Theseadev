@@ -1,8 +1,5 @@
 # 💫 HI, I'M MUHAMMAD FAHRUL BAHRI
-Hi, I'm Fahrul, a passionate learner in technology and software development. Currently, I'm focusing on building applications that aim to make daily life more organized and meaningful. My projects include:<br><br>
-**E-Todolist**: A task management app to help users stay on top of their academic or personal goals.<br>
-**Neoserenity**: A motivational quote app designed to inspire happiness and serenity, with a unique touch inspired by Borneo.<br>
-I enjoy exploring web and mobile app development, always seeking to create tools that positively impact users' lives. Feel free to explore my repositories and collaborate with me!<br><br>
+Hello, I'm Fahrul, a technology enthusiast and software developer. I'm focused on creating applications that make life more organized and meaningful. My goal is to build tools that help users achieve their objectives and improve their daily routines. I also aim to assist fellow students by sharing code examples that I have created on GitHub. I hope these can provide valuable insights and references for software development. I enjoy exploring web and mobile app development, and I’m always open to collaboration and new opportunities. Feel free to check out my work and reach out to me!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discrodapp.com/users/830809890876424203)  
