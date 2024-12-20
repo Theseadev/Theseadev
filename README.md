@@ -56,7 +56,7 @@ I enjoy exploring web and mobile app development, always seeking to create tools
 ---
 
 ## 📬 Contact Me:
-For collaboration or inquiries, feel free to reach out to me via email at [your-email@example.com](mailto:fahrulbahri0520@Gmail.com).
+For collaboration or inquiries, feel free to reach out to me via email at [fahrulbahri0520@Gmail.com](mailto:fahrulbahri0520@Gmail.com).
 
 ---
 
