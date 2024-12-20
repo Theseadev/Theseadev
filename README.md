@@ -1,5 +1,5 @@
 # 💫 HI, I'M MUHAMMAD FAHRUL BAHRI
-Hello, I'm Fahrul, a technology enthusiast and software developer. I'm focused on creating applications that make life more organized and meaningful. My goal is to build tools that help users achieve their objectives and improve their daily routines. I also aim to assist fellow students by sharing code examples that I have created on GitHub. I hope these can provide valuable insights and references for software development. I enjoy exploring web and mobile app development, and I’m always open to collaboration and new opportunities. Feel free to check out my work and reach out to me!
+Hi, I'm Fahrul, a passionate learner in technology and software development. Currently, I'm focusing on building applications that aim to make daily life more organized and meaningful. I enjoy exploring web and mobile app development, always seeking to create tools that positively impact users' lives. Feel free to explore my repositories and collaborate with me!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discrodapp.com/users/830809890876424203)  
@@ -27,7 +27,7 @@ Hello, I'm Fahrul, a technology enthusiast and software developer. I'm focused o
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### **Other Technologies**:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Flowgorithm](https://img.shields.io/badge/Flowgorithm-%2300A9E0.svg?style=for-the-badge&logo=Flowgorithm&logoColor=white) ![Wokwi](https://img.shields.io/badge/Wokwi-%23FF5733.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Flowgorithm](https://img.shields.io/badge/Flowgorithm-%2300A9E0.svg?style=for-the-badge&logo=Flowgorithm&logoColor=white) ![Wokwi](https://img.shields.io/badge/Wokwi-%23FF5733.svg?style=for-the-badge&logo=Arduino&logoColor=white) ![Blogger](https://img.shields.io/badge/Blogger-%233F51B5.svg?style=for-the-badge&logo=blogger&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%232C5B5C.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
@@ -53,10 +53,8 @@ Hello, I'm Fahrul, a technology enthusiast and software developer. I'm focused o
 ---
 
 ## 📬 Contact Me:
-For collaboration or inquiries, feel free to reach out to me via email at [fahrulbahri0520@gmail.com](mailto:fahrulbahri0520@gmail.com)
+For collaboration or inquiries, feel free to reach out to me via email at [fahrulbahri0520@gmail.com](mailto:fahrulbahri0520@gmail.com).
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Theseadev&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
