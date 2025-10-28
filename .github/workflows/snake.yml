@@ -2,6 +2,7 @@ name: Generate Snake Animation 🐍✨
 
 on:
   schedule:
+    # Menjalankan setiap hari jam 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -22,7 +23,7 @@ jobs:
         with:
           github_user_name: Theseadev
           outputs: |
-            dist/github-contribution-grid-snake-hd.svg?color_snake=00BFFF,1E90FF,87CEFA&pixel_size=8
+            dist/github-contribution-grid-snake.svg?color_snake=00BFFF,1E90FF,87CEFA&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353&pixel_size=5
 
       - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v4
