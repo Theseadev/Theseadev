@@ -1,14 +1,19 @@
-name: Generate Snake Animation
+name: Generate Snake Animation 🐍✨
 
 on:
-  schedule: 
+  schedule:
+    # Menjalankan setiap hari jam 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write  # 🔥 Izin untuk menulis ke branch output
 
 jobs:
   build:
     name: Generate GitHub Contribution Snake
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -16,16 +21,19 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: Theseadev
+          github_user_name: Theseadev  # Ganti sesuai username kamu
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
+            dist/github-contribution-grid-snake-ombre.svg?color_snake=00BFFF,8A2BE2,FF69B4  # 🌈 Gradasi warna estetik
 
-      - name: Push generated files
+      - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          author: "GitHub Action <actions@github.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
