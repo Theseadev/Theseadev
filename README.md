@@ -76,9 +76,11 @@ Currently exploring **Flutter**, **Kotlin**, and **IoT-based innovations**.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theseadev&theme=tokyonight" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theseadev&layout=compact&theme=tokyonight" />
-</p>
+<tr align="center">
+    <td colspan="2">
+      <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Theseadev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
 
 ---
 
