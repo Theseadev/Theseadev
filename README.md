@@ -12,7 +12,7 @@ Saya adalah **Muhammad Fahrul Bahri**, seorang pengembang perangkat lunak yang b
 * 🌍 Berbasis di Indonesia
 * 🚀 Fokus saat ini: Mobile Development (Flutter)
 * 📧 Kontak: [fahrulbahri0520@gmail.com](mailto:fahrulbahri0520@gmail.com)
-* 💬 Discord: `fahrull._5`
+* 💬 Discord: `fahrul.b`
 
 ---
 
