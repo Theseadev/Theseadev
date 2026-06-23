@@ -54,7 +54,7 @@ Saya adalah **Muhammad Fahrul Bahri**, seorang pengembang perangkat lunak yang b
 
 ### 🌐 Social Connect
 <p align="left">
-  <a href="https://linkedin.com/in/MuhammadFahrulBahri">
+  <a href="https://linkedin.com/in/Muhammad-Fahrul-Bahri">
     <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/fahrull._5">
