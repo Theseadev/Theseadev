@@ -10,7 +10,7 @@
 Saya adalah **Muhammad Fahrul Bahri**, seorang pengembang perangkat lunak yang berfokus pada efisiensi dan inovasi. Saya senang mengeksplorasi bagaimana teknologi *mobile* dan *web* dapat berinteraksi dengan dunia fisik melalui *Internet of Things* (IoT).
 
 * 🌍 Berbasis di Indonesia
-* 🚀 Fokus saat ini: Mobile Development (Flutter)
+* 🚀 Fokus saat ini: Mobile Development (Kotlin)
 * 📧 Kontak: [fahrulbahri0520@gmail.com](mailto:fahrulbahri0520@gmail.com)
 * 💬 Discord: `fahrul.b`
 
