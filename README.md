@@ -32,22 +32,17 @@ Saya adalah **Muhammad Fahrul Bahri**, seorang pengembang perangkat lunak yang b
 
 #### 📦 Posion (Point of Sale)
 > Sistem manajemen transaksi dan inventaris yang dirancang untuk kecepatan dan kemudahan penggunaan.
-* **Tech:** Laravel, MySQL, Bootstrap
-* **Key Feature:** Laporan penjualan real-time & manajemen stok otomatis.
+* **Tech:** Kotlin
+* **Key Feature:** POS Minim Internet.
 
 #### ✨ NeoSerenity
 > Aplikasi mobile yang berfokus pada kesehatan mental dan motivasi pengguna.
-* **Tech:** Flutter, Dart, GetX
+* **Tech:** Dart (Flutter)
 * **Key Feature:** UI interaktif dengan animasi yang menenangkan.
-
-#### 📝 E-Todolist
-> Aplikasi produktivitas harian untuk mengelola tugas secara terorganisir.
-* **Tech:** Flutter, Hive (Local Database)
-* **Key Feature:** Offline-first mode & kategori tugas kustom.
 
 #### 📖 HafalQ
 > Platform digital pendamping bagi penghafal Al-Qur'an.
-* **Tech:** Flutter, Firebase
+* **Tech:** Dart (Flutter)
 * **Key Feature:** Progress tracking hafalan & integrasi cloud.
 
 ---
