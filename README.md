@@ -120,7 +120,7 @@ Saya adalah **Muhammad Fahrul Bahri**, software developer yang berfokus pada pen
       <img src="https://github-readme-stats-fast.vercel.app/api?username=Theseadev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9" height="165" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Theseadev">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Theseadev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9" height="165" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Theseadev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9&hide=hack" height="165" alt="Top Languages" />
     </a>
   </p>
   <p align="center">
