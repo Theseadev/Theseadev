@@ -1,7 +1,10 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=220&section=header&text=Muhammad%20Fahrul%20Bahri&fontSize=42&fontAlignY=36&desc=Mobile%20%26%20Web%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <h1>⚡ Muhammad Fahrul Bahri ⚡</h1>
+  <p>
+    <strong>Mobile & Web Developer &nbsp;|&nbsp; IoT Enthusiast</strong><br>
+    <em>"Crafting clean, meaningful, and impactful digital experiences."</em>
+  </p>
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Theseadev">
@@ -32,10 +35,6 @@
 ---
 
 ### 👤 About Me
-
-```markdown
-💡 "Crafting clean, meaningful, and impactful digital experiences."
-```
 
 Saya adalah **Muhammad Fahrul Bahri**, seorang software developer yang berdedikasi membangun aplikasi berkualitas tinggi dengan kode yang bersih, modular, dan efisien. Saya memiliki ketertarikan mendalam dalam memadukan ekosistem **Mobile & Web** dengan dunia fisik melalui **Internet of Things (IoT)**.
 
@@ -113,34 +112,12 @@ Saya adalah **Muhammad Fahrul Bahri**, seorang software developer yang berdedika
 
 ---
 
-### 🐍 Contribution Activity
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theseadev/Theseadev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theseadev/Theseadev/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Theseadev/Theseadev/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/Theseadev">
-      <img src="https://github-readme-stats.vercel.app/api?username=Theseadev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9" height="165" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Theseadev">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theseadev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9" height="165" alt="Top Languages" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Theseadev">
-      <img src="https://streak-stats.demolab.com/?user=Theseadev&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&currStreakNum=E6EDF3" alt="GitHub Streak" />
-    </a>
-  </p>
+  <a href="https://github.com/Theseadev">
+    <img src="https://streak-stats.demolab.com/?user=Theseadev&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&currStreakNum=E6EDF3" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -168,8 +145,6 @@ data class Developer(
 ---
 
 <div align="center">
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=120&section=footer" width="100%" alt="Footer Wave" />
   <p align="center">
     <em>"The best way to predict the future is to invent it."</em><br>
     ⚡ Crafted with passion by <strong>Muhammad Fahrul Bahri</strong>
