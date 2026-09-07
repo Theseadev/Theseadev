@@ -112,12 +112,22 @@ Saya adalah **Muhammad Fahrul Bahri**, seorang software developer yang berdedika
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <a href="https://github.com/Theseadev">
-    <img src="https://streak-stats.demolab.com/?user=Theseadev&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&currStreakNum=E6EDF3" alt="GitHub Streak" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/Theseadev">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Theseadev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Theseadev">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Theseadev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9" height="165" alt="Top Languages" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Theseadev">
+      <img src="https://streak-stats.demolab.com/?user=Theseadev&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&currStreakNum=E6EDF3" alt="GitHub Streak" />
+    </a>
+  </p>
 </div>
 
 ---
