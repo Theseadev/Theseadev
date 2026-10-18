@@ -2,28 +2,28 @@
 
   <h1>Muhammad Fahrul Bahri</h1>
   <p>
-    <strong>Mobile & Web Developer &nbsp;|&nbsp; IoT Enthusiast</strong><br>
+    <strong>Mobile & Web Developer &nbsp;•&nbsp; IoT Enthusiast</strong><br>
     <em>"Crafting clean, meaningful, and impactful digital experiences."</em>
   </p>
 
-  <!-- Animated Typing SVG -->
+  <!-- Animated Typing SVG (Soft Blue Theme) -->
   <a href="https://github.com/Theseadev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00B4D8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Muhammad+Fahrul+Bahri;Mobile+%26+Web+Developer;IoT+Enthusiast;Crafting+clean+%26+impactful+software." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Hi%2C+I%27m+Muhammad+Fahrul+Bahri;Mobile+%26+Web+Developer;IoT+Enthusiast;Crafting+clean+%26+impactful+software." alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- Views Badge & Socials -->
+  <!-- Dynamic Views Badge & Socials (Soft Blue Theme) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Theseadev&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Theseadev&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
     <a href="https://linkedin.com/in/Muhammad-Fahrul-Bahri" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/fahrull._5" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-5B86E5?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:fahrulbahri0520@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://discord.com">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
@@ -120,15 +120,15 @@ Saya adalah **Muhammad Fahrul Bahri**, software developer yang berfokus pada pen
 <div align="center">
   <p align="center">
     <a href="https://github.com/Theseadev">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=Theseadev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Theseadev&show_icons=true&hide_border=true&border_radius=10&bg_color=0F172A&title_color=38BDF8&icon_color=60A5FA&text_color=CBD5E1" height="165" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Theseadev">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Theseadev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9&hide=hack" height="165" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Theseadev&layout=compact&hide_border=true&border_radius=10&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&hide=hack" height="165" alt="Top Languages" />
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/Theseadev">
-      <img src="https://streak-stats.demolab.com/?user=Theseadev&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&currStreakNum=E6EDF3" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Theseadev&hide_border=true&border_radius=10&background=0F172A&ring=60A5FA&fire=38BDF8&currStreakLabel=93C5FD&currStreakNum=F8FAFC&sideLabels=93C5FD&sideNums=F8FAFC&dates=7DD3FC" alt="GitHub Streak" />
     </a>
   </p>
 </div>
